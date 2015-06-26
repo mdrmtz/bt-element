@@ -1,0 +1,29 @@
+{
+  "name": "bt-element",
+  "version": "1.0.0",
+  "authors": [
+    "Daniel Ramos <dev@bluetouch.mx>"
+  ],
+  "description": "Component Demo",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "Bluetouch"
+  ],
+  "main": "bt-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/mdrmtz/bt-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.4"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
