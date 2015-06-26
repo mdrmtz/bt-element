@@ -15,9 +15,7 @@
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/mdrmtz/bt-element/",
   "ignore": [
-    "/.*",
-    "/test/",
-    "/demo/"
+    "/.*"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.4"
